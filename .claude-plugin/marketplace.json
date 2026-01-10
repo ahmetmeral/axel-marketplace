@@ -1,0 +1,20 @@
+{
+  "name": "axel-marketplace",
+  "description": "AXEL development tools for Claude Code",
+  "owner": {
+    "name": "Ahmet Meral",
+    "url": "https://github.com/ahmetmeral/axel-marketplace"
+  },
+  "plugins": [
+    {
+      "name": "axel-core",
+      "source": { "source": "github", "repo": "ahmetmeral/axel-core" },
+      "description": "AXEL Core"
+    },
+    {
+      "name": "axel-todos",
+      "source": { "source": "github", "repo": "ahmetmeral/axel-todos" },
+      "description": "AXEL Todos"
+    }
+  ]
+}
